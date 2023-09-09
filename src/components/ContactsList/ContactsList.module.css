@@ -1,6 +1,6 @@
 .list {
   list-style-type: none;
-  background-color: #9b9696;
+  background-color: transparent;
   width: 400px;
   gap: 18px;
   padding: 15px;
@@ -10,7 +10,7 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 15px;
-  background-color: aliceblue;
+  background-color: #57e54d;
   padding: 8px;
   line-height: 1.8;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
@@ -26,7 +26,7 @@
   line-height: 1.2;
   letter-spacing: 0.04em;
   width: 50px;
-  background: #4d5ae5;
+  background: #e54d4d;
   color: white;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
   border: 0;
